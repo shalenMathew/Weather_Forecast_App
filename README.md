@@ -1,6 +1,6 @@
 # Weather Forecast app
 
-A weather app<br>
+A weather app<br><br>
 Features:<br>
 - ui made using jetpack compose<br>
 - uses retrofit<br>
