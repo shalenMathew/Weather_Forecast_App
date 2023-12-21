@@ -1,8 +1,7 @@
 # Weather Forecast app
 
 A weather app<br>
-
-Features:<br><br>
+Features:<br>
 - ui made using jetpack compose<br>
 - uses retrofit<br>
 - uses hilt for dependency injection<br>
