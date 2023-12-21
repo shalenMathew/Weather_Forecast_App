@@ -1,4 +1,12 @@
 # Weather Forecast app
-A weather
-<img src="https://github.com/shalenMathew/Notes_App_JAVA/blob/master/github%20pics/Screenshot_20230915_145116.png" alt="Splash_Screen" width="270" height="500">
+
+A weather app<br>
+
+Features:<br><br>
+- ui made using jetpack compose<br>
+- uses retrofit<br>
+- uses hilt for dependency injection<br>
+- follows clean architecture(MVI pattern)
+
+<img src="https://github.com/shalenMathew/Weather_Forecast_App/blob/master/app/src/main/res/drawable/img1.png" alt="Splash_Screen" width="270" height="500">
 
